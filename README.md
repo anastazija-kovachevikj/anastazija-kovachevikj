@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello there 👋
 
 **I have worked with**
 
@@ -8,6 +7,8 @@
   <img src="https://img.shields.io/badge/java-%23E76D40.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/ros-%230075A9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
 ### Previous pojects
@@ -16,19 +17,22 @@
 - 🤖 Introduction to robotics : [Robot Sheriff](https://github.com/anastazija-kovachevikj/RobotSheriff)
 - 💻 Web Programming : [FINKI Molbi](https://github.com/anastazija-kovachevikj/FINKI-Molbi)
 
-### 🌱 I’m learning
+### 
 
 <div display="flex">
 </div>
 
 
-### 📫 How to reach me
+### Contact
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/anastazija-kovachevikj-2b442b215/">
+
+   <a href="https://www.linkedin.com/in/anastazija-kovachevikj-2b442b215/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+  <a href="mailto:anastazija.kovachevikj@gmail.com">
+ <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+ 
 </div>
 
-### ⚡ Fun fact
