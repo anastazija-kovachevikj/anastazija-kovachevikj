@@ -19,7 +19,7 @@
 
 ### Current pojects
 - 📱 Mobile information systems : [FINKI Rasporedi](https://github.com/nnikolovskiii/FinkiRasporedi)
-- 📱 Advanced IHC : [Vinozito](https://github.com/anastazija-kovachevikj/Vinozito)
+- 📱 Advanced HCI : [Vinozito](https://github.com/anastazija-kovachevikj/Vinozito)
 ### 
 
 <div display="flex">
