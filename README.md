@@ -16,9 +16,9 @@
 - 📈 Data Science : [Amazon Stock Predictions](https://github.com/anastazija-kovachevikj/AmazonStockPrediction) 
 - 🤖 Introduction to robotics : [Robot Sheriff](https://github.com/anastazija-kovachevikj/RobotSheriff)
 - 💻 Web Programming : [FINKI Molbi](https://github.com/anastazija-kovachevikj/FINKI-Molbi)
+- 📱 Mobile information systems : [FINKI Rasporedi](https://github.com/nnikolovskiii/FinkiRasporedi)
 
 ### Current pojects
-- 📱 Mobile information systems : [FINKI Rasporedi](https://github.com/nnikolovskiii/FinkiRasporedi)
 - 📱 Advanced HCI : [Vinozito](https://github.com/anastazija-kovachevikj/Vinozito)
 ### 
 
