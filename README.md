@@ -5,11 +5,16 @@
 <div display="flex">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23E76D40.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/ros-%230075A9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/figma-%230075A9.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/android-%2300f.svg?style=for-the-badge&logo=android&logoColor=white" alt="android"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
 </div>
+
+### Current pojects
+- 📱 Advanced HCI : [Vinozito](https://github.com/anastazija-kovachevikj/Vinozito)
+### 
 
 ### Previous pojects
 
@@ -18,9 +23,7 @@
 - 💻 Web Programming : [FINKI Molbi](https://github.com/anastazija-kovachevikj/FINKI-Molbi)
 - 📱 Mobile information systems : [FINKI Rasporedi](https://github.com/nnikolovskiii/FinkiRasporedi)
 
-### Current pojects
-- 📱 Advanced HCI : [Vinozito](https://github.com/anastazija-kovachevikj/Vinozito)
-### 
+
 
 <div display="flex">
 </div>
