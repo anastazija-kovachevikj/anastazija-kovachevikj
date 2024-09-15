@@ -28,17 +28,15 @@
 <div display="flex">
 </div>
 
-
-### Contact
-
+## 
 <div display="flex">
 
    <a href="https://www.linkedin.com/in/anastazija-kovachevikj-2b442b215/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:anastazija.kovachevikj@gmail.com">
+<!--   <a href="mailto:anastazija.kovachevikj@gmail.com">
  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+</a> -->
  
 </div>
 
